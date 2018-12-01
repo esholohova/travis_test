@@ -1,0 +1,1 @@
+{"DatastoreIpAdderss":"192.168.201.116","DatastorePort":3021,"InformingIntervalMillisecond":300,"MixerId":2}
