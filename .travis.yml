@@ -4,4 +4,4 @@ php:
 
   - 5.6
   
-script: php codeception.phar run functional
+script: php codecept.phar run functional
